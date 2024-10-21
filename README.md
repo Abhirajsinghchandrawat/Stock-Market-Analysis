@@ -1,3 +1,4 @@
+LINK TO PROJECT: https://public.tableau.com/views/StockMarketProjecct/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 The Stock Market Analysis project using Tableau provides a comprehensive data visualization solution aimed at empowering business analysts and investors with actionable insights. This project focuses on analyzing stock market trends, company performance, and market volatility, enabling stakeholders to make informed decisions with ease.
 
 Key Features:
